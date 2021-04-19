@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mFQclZXzaPoRnkTosg4/35ZiMRosoqv8bJhP91pxBjiektj/CfhHkqcnmV3OD9KRzOvgCAKmIlqxGjl3H9CAHg==",
+  "dgSpecHash": "liBLQpwbrwZi6C6kU3mCqh0CWFmnQO0LsJZPfcC0398cRMTbjBQRTW+tuDB5PpKohq5F60ALIlhNNQ2fZK5fYA==",
   "success": true,
-  "projectFilePath": "L:\\Maico\\Documents\\WorkSpace\\DatingApp\\API\\API.csproj",
+  "projectFilePath": "L:\\Maico\\Documents\\WorkSpace\\DatingApp\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Maico\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Maico\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
