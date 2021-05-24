@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "L:\\Maico\\Documents\\WorkSpace\\DatingApp\\api\\API.csproj": {}
+    "l:\\Maico\\Documents\\WorkSpace\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "L:\\Maico\\Documents\\WorkSpace\\DatingApp\\api\\API.csproj": {
+    "l:\\Maico\\Documents\\WorkSpace\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "L:\\Maico\\Documents\\WorkSpace\\DatingApp\\api\\API.csproj",
+        "projectUniqueName": "l:\\Maico\\Documents\\WorkSpace\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "L:\\Maico\\Documents\\WorkSpace\\DatingApp\\api\\API.csproj",
+        "projectPath": "l:\\Maico\\Documents\\WorkSpace\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Maico\\.nuget\\packages\\",
-        "outputPath": "L:\\Maico\\Documents\\WorkSpace\\DatingApp\\api\\obj\\",
+        "outputPath": "l:\\Maico\\Documents\\WorkSpace\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Maico\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,7 +21,6 @@
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,6 +52,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.11.1, )"
             }
           },
           "imports": [
